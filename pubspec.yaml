@@ -1,0 +1,72 @@
+name: rasmalai
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^1.0.0
+  carousel_slider: ^2.1.0
+  flutter_svg: ^0.17.4
+
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/img/carousel1.png
+    - assets/img/carousel2.png
+    - assets/img/carousel3.png
+    - assets/img/snacks.png
+    - assets/img/thali.png
+    - assets/img/masu.png
+    - assets/img/tarkari.png
+    - assets/img/noodle.png
+    - assets/img/mcourse.png
+    - assets/img/beverage.png
+    - assets/img/notification.png
+    - assets/img/favourite.png
+    - assets/img/orders.png
+    - assets/img/profile.png
+    - assets/img/home.png
+    - assets/img/help.png
+    - assets/img/rateus.png
+    - assets/img/pi.png
+    - assets/img/promo.png
+    - assets/img/rcoin.png
+    - assets/img/address.png
+    - assets/img/veg.png
+    - assets/img/wo.png
+    - assets/img/selroti.png
+    - assets/img/samosa.png
+    - assets/img/vegthali.png
+    - assets/img/nonvegthali.png
+    - assets/img/sukuti.png
+    - assets/img/khasikomasu.png
+    - assets/img/choila.png
+    - assets/img/kachila.png
+    - assets/img/misaykotarkari.png
+    - assets/img/aloosibi.png
+    - assets/img/aloogobi.png
+    - assets/img/thenthuk.png
+    - assets/img/gyathuk.png
+    - assets/img/chickenthukpa.png
+    - assets/img/dal.png
+    - assets/img/bhat.png
+    - assets/img/roti.png
+    - assets/img/tongba.png
+    - assets/img/aila.png
+    - assets/img/wallet.png
+    - assets/img/chyang.png
